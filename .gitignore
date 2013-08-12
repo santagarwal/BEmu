@@ -11,3 +11,7 @@
 
 #dotnet
 *.suo
+obj
+*.cache
+*.exe
+*.dll
